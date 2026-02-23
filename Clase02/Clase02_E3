@@ -1,5 +1,5 @@
 #Leer un número de 5 cifras y calcular el dígito de las centenas.
 numero = 12345
-calculo = (numero%1000)//100
+calculo = (numero%1000)//10
 
 print("resultado", calculo)
