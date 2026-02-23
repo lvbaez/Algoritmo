@@ -1,0 +1,10 @@
+#Dados el radio y altura de un cilindro, calcule el área total y el volumen
+r = 5
+h = 10
+pi = 3.1416
+
+at = 2 * pi * r * r + 2 * pi * r * h
+v = pi * r * r * h
+
+print("Área total:", at)
+print("Volumen:", v)
