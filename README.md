@@ -1,9 +1,9 @@
 # Algoritmo
-Ejercicios y materiales de la asignatura de Algoritmo Homóloga - FPUNA
+Códigos Python y materiales de la asignatura de Algoritmo Homóloga - FPUNA
 
-Clase 01 - Ejercicios Python
+Clase 01 - Códigos Python
 
-Clase 02 - Ejercicios Python sobre:
+Clase 02 - Códigos Python sobre:
 - Variables
 - Entrada y salida
 - Tipos de datos
