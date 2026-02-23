@@ -1,7 +1,7 @@
 # Calcular el área de un triángulo conocidos sus tres lados
 a = 5
-b = 5
-c = 7
+b = 6
+c = 8
 
 t = (a + b + c) / 2 #fórmula de semiperímetro
 s = (t * (t - a) * (t - b) * (t - c)) ** 0.5 #fórmula de área
